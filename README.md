@@ -13,7 +13,7 @@ From `subsidy-frontend-phase15/`:
 
 ```bash
 npm install
-npm run dev
+npm run devhttps://github.com/saitejachethla30/Digital-Subsidy-Grant-Distrsement-Tracking-System/settings
 ```
 
 The frontend uses `http://localhost:8080` by default. Set `VITE_API_BASE_URL` if the backend runs elsewhere.
@@ -22,14 +22,15 @@ The frontend uses `http://localhost:8080` by default. Set `VITE_API_BASE_URL` if
 
 From subsidy-backend/:
 
-bash
+```bash
 ./mvnw spring-boot:run
+```
 
 
 On Windows:
 
-bat
+```bash
 mvnw.cmd spring-boot:run
-
+```
 
 
