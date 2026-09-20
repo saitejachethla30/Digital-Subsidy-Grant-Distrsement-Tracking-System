@@ -26,7 +26,7 @@ From `subsidy-backend/`:
 ./mvnw spring-boot:run
 ```
 On Windows:
-```batmvnw.cmd spring-boot:run
-```
 mvnw.cmd spring-boot:run
 ```
+
+A
