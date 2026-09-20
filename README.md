@@ -21,10 +21,8 @@ The frontend uses `http://localhost:8080` by default. Set `VITE_API_BASE_URL` if
 ## Run backend
 
 From `subsidy-backend/`:
-
+On Windows:
 ```bash
 ./mvnw spring-boot:run
 ```
-On Windows:
-mvnw.cmd spring-boot:run
-```
+
