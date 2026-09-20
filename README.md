@@ -28,5 +28,3 @@ From `subsidy-backend/`:
 On Windows:
 mvnw.cmd spring-boot:run
 ```
-
-A
